@@ -8,6 +8,11 @@
 Whether users are interested in exploring how punk's rebellious spirit could transform modern streetwear or looking to visualize a concept for a high-fashion editorial inspired by '90s hip-hop, Music Fashion offers a tailored experience. By guiding users through a step-by-step process, it clarifies preferences and focuses on details such as color palettes, textures, or specific accessories that capture the music-inspired essence of a fashion concept. This makes Music Fashion a unique tool for anyone seeking a blend of style and music history to inspire innovative, genre-infused looks.
 
 #
+![Example](https://github.com/user-attachments/assets/546edc14-b427-4856-8f76-ff313a1a88bb)
+#
+![Example](https://github.com/user-attachments/assets/b52220ed-88fa-48bc-97af-0b581ad23402)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
