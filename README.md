@@ -1,4 +1,4 @@
-![Music Fashion](https://github.com/user-attachments/assets/bc754aea-fd23-4e3e-8701-450a420882ef)
+![Metal](https://github.com/user-attachments/assets/27c3f69b-732c-4361-a26d-27477e4037e4)
 
 > Create fashion images inspired by music and bands using DALL-E 3.
 #
@@ -9,6 +9,8 @@ Whether users are interested in exploring how punk's rebellious spirit could tra
 
 #
 ![Example](https://github.com/user-attachments/assets/546edc14-b427-4856-8f76-ff313a1a88bb)
+#
+![Music Fashion](https://github.com/user-attachments/assets/bc754aea-fd23-4e3e-8701-450a420882ef)
 #
 ![Example](https://github.com/user-attachments/assets/b52220ed-88fa-48bc-97af-0b581ad23402)
 
